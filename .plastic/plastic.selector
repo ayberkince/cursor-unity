@@ -1,0 +1,4 @@
+repository "Cursor/Cursor@9072297383742@cloud"
+  path "/"
+    br "/main"
+    co "/main"
